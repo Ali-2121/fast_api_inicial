@@ -47,3 +47,4 @@ backendBitacoraPrestamos/
 # Ignorar carpetas 'scripts' y 'lib'
 scripts/
 lib/
+pyvenv.cfg
